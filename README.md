@@ -2,7 +2,7 @@
 Your project's description...
 
 ## Environments
-- first go through this link to get a glimpse of the project: https://www.hlx.live/developer/anatomy-of-a-franklin-project
+- Go through this link to get a glimpse of how to deploy this project: https://www.hlx.live/developer/anatomy-of-a-franklin-project
 - Preview: https://main--{repo}--{owner}.hlx.page/
 - Live: https://main--{repo}--{owner}.hlx.live/
 
